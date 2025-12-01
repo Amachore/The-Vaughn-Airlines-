@@ -1,0 +1,7 @@
+				BOOKINGS
+0001-H9T3QW | Julius Broe | From: Laguna | To: Cebu, Philippines | Departure: 01/24/2026 | Return: 02/21/2026 | Class: Business
+0001-CQEHQI | Vaughn | From: Davao | To: Tokyo, Japan | Departure: 09/21/2026 | Return: 09/24/2026 | Class: First 
+0001-MGB3QQ | Li | From: Germany | To: Bangkok, Thailand | Departure: 09/27/26 | Return: 11/21/2026 | Class: Economy 
+0001-0N5ATW | Donita | From: Isabela | To: Seoul, South Korea | Departure: 09/21/2026 | Return: 10/22/2026 | Class: Business
+0001-LDHNDE | Vaughnb | From: Manila | To: Seoul, South Korea | Departure: 09/21/2026 | Return: 10/22/2026 | Class: Business
+0001-3NFOOB | Dakilang Heneral | From: Mindanao | To: Cebu, Philippines | Departure: 01/22/2026 | Return: 06/21/2026 | Class: Business

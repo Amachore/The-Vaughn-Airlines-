@@ -21,9 +21,5 @@ Recent fixes applied
 - Duplicate confirmation/logging removed.
 - Null-safe Console input and more robust log newline handling.
 
-Next improvements (recommended)
-- Validate and parse dates with `DateTime.TryParseExact`.
-- Persist `confirmedTickets` if you need state across runs (JSON file or DB).
-- Add unit tests for ticket creation, search, and cancellation.
 
-- AI Application: Very little (about 3%). I only used Copilot Chat for quickly resolving the errors after they were unfolded when I had opened this project again after nearly a year since I presented it to my professor in my Data Structures and Algorithms class. 
+AI Application: Very little (about 3%). I only used Copilot Chat for quickly resolving the errors after they were unfolded when I had opened this project again after nearly a year since I presented it to my professor in my Data Structures and Algorithms class. 

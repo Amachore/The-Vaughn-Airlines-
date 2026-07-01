@@ -1,0 +1,14 @@
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\bin\Debug\net9.0\VaughnAirlines.exe
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\bin\Debug\net9.0\VaughnAirlines.deps.json
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\bin\Debug\net9.0\VaughnAirlines.runtimeconfig.json
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\bin\Debug\net9.0\VaughnAirlines.dll
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\bin\Debug\net9.0\VaughnAirlines.pdb
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.AssemblyInfoInputs.cache
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.AssemblyInfo.cs
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.csproj.CoreCompileInputs.cache
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.dll
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\refint\VaughnAirlines.dll
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.pdb
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\VaughnAirlines.genruntimeconfig.cache
+C:\Users\Sherlock\Downloads\Balane_MidtermsOutput\VaughnAirlines\obj\Debug\net9.0\ref\VaughnAirlines.dll
